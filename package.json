@@ -1,6 +1,6 @@
 {
   "name": "blockin-algo-driver",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "type": "module",
   "main": "dist/AlgoDriver.js",
@@ -13,7 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "algosdk": "^1.17.0",
-    "blockin": "^1.1.35",
+    "axios": "^1.4.0",
+    "blockin": "^1.2.35",
     "buffer": "^6.0.3",
     "tweetnacl": "^1.0.3"
   },
